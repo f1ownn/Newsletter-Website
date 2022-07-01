@@ -58,7 +58,3 @@ app.post('/failure',function(req,res){
 })
 
 
-// fdf24dc53fd2c22638abf4af65fcff8e-us12 API KEY
-
-
-// 3a0f914067 LIST ID
